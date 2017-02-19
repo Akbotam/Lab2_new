@@ -1,2 +1,1 @@
-max:45
-min:2
+MinPrimeNumber:6
