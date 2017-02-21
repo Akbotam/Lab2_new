@@ -30,7 +30,7 @@ namespace MinPrimeNumber
             string[] arr = s.Split();
 
             bool pf = false;
-            int min;
+            int min=0;
             for (int i = 0; i < arr.Length; i++)
             {
               
